@@ -1,2 +1,2 @@
 # mosent_rabbitmq
-RabbitMQ module of Mosent
+RabbitMQ Module of Project Mosent

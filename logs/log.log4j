@@ -1,0 +1,26 @@
+2018-10-09 16:13:28 [INFO]  [x] Received 'thtest' from ibeacon
+2018-10-09 16:14:13 [INFO]  [x] Received '11thtest' from ibeacon
+2018-10-09 16:22:46 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 16:22:53 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 16:23:00 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 16:23:07 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 16:23:14 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 16:28:54 [INFO] Connection succeed.
+2018-10-09 19:06:08 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 19:06:15 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 19:06:22 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 19:06:29 [INFO] Connection broken: java.net.ConnectException, reconnection in 5 seconds.
+2018-10-09 19:06:36 [INFO] Connection succeed.
+2018-10-09 19:06:51 [INFO]  [x] Received '1st' from ibeacon
+2018-10-09 19:07:02 [INFO] Connection succeed.
+2018-10-09 19:07:16 [INFO] Connection succeed.
+2018-10-09 19:07:38 [INFO] Connection succeed.
+2018-10-09 19:07:46 [INFO]  [x] Received '2ndtest' from ibeacon
+2018-10-09 19:07:46 [INFO]  [x] Received '2ndtest' from ibeacon
+2018-10-09 19:08:06 [INFO]  [x] Received '3rdtest' from ibeacon
+2018-10-09 19:08:06 [INFO]  [x] Received '3rdtest' from ibeacon
+2018-10-09 19:08:23 [INFO]  [x] Received '4thtest' from wifi
+2018-10-09 19:08:23 [INFO]  [x] Received '4thtest' from wifi
+2018-10-09 19:10:19 [INFO] Connection succeed.
+2018-10-09 19:11:16 [INFO] Connection succeed.
+2018-10-09 19:11:31 [INFO] Connection succeed.
